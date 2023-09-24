@@ -614,7 +614,15 @@ xor_eq
 
 ::new mirror::curl -s "https://archlinux.org/mirrorlist/?country=FR&country=GB&protocol=https&use_mirror_status=on" | sed -e 's/^#Server/Server/' -e '/^#/d' | rankmirrors -n 5 -
 
-::sup::sudo pacman -Syu
+;; batch loop for bash ;;
+
+::forsay::for i in {00..99} `;do say -o supersition$i.aiff -f x$i`;done
+
+::fordo::for i in {00..99} `;do lame -m m supersition$i.aiff superstition$i.mp3 `; done
+
+
+
+::superpac::sudo pacman -Syu
 
 ;; linux -- linuxsh;;
 
@@ -974,7 +982,7 @@ Searching()
 
 
 ;;  sga ;;
-::sga example::sed 'y/abcdefghijklmnopqrstuvwxyz//' <<< 'The quick brown fox jumps over the lazy dog.'
+::sga example::sed 'y/abcdefghijklmnopqrstuvwxyz//' <<< 'the quick brown fox jumps over the lazy dog.'
 :o:to-sga::sed 'y/abcdefghijklmnopqrstuvwxyz//' <<< '
 :o:from-sga::sed 'y//abcdefghijklmnopqrstuvwxyz/' <<< '
 
@@ -1148,13 +1156,13 @@ wget https://code.call-cc.org/releases/current/chicken.tar.gz
 Send, load-file " "
 Send, {Left 2}
 Return
-
+/*
 ;; bracket (bubble) ;;
 ^b::
 Send, ( )
 Send, {Left 2}
 Return
-
+*/
 ;; end clojure ;;
 
 ::circ::circumference
@@ -1187,7 +1195,7 @@ Return
 
 ;; Github githubsh ;;
 
-::get repos::gh repo list --limit 20000 > repo-list
+::get repos::gh repo list --limit 17000 > repo-list
 
 :o:gitname::standardgalactic
 :o:git name::standardgalactic
@@ -1231,8 +1239,10 @@ Return
 ;; byobu ;;
 ::bseta::byobu-ctrl-a
 
-::bybobu::byobu
+
 ::byo::byobu
+::bya::byobu attach
+
 ::ubu::ubuntu
 
 
@@ -1472,6 +1482,8 @@ ghhihh
 ::setfont::set guifont=Fira_Mono_for_Powerline:h26  ;;gvim
 ::changefont::set guifont=*   ;; gvim
 
+::re verse::g/^/m 0
+
 ::noscroll::set scrolloff=9999
 ::scrolloff::set scrolloff=9999
 ::scrollon::set scrolloff=0 ;;seems to work
@@ -1699,7 +1711,7 @@ Return
 ::moontop::ssh moontop@192.168.2.113 ; ubuntu
 ::myoldlaptop::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
 ::eccehomo::ssh eccehomo@192.168.2.30 ;;; now ubuntu 
-::eh::ssh eccehomo@192.168.2.223
+::eh::ssh eccehomo@192.168.2.240
 
 ::shorthand::ssh shorthand@192.168.2.125  ;; shorthand@Optiplex
 ::multitech::ssh mixo@192.168.2.93 ;; mixo@lydian
