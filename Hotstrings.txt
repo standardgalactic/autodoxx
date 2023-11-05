@@ -30,8 +30,14 @@ SC121::BS
 
 ::myfonts::C:\Users\Mechachleopteryx\AppData\Local\Microsoft\Windows\Fonts
 
+;; no quotes, ls without quotes, from https://unix.stackexchange.com/questions/258679/why-is-ls-suddenly-wrapping-items-with-spaces-in-single-quotes;;
+
+::noq::ls() {`n# only way I can stop ls from escaping with backslashes`n    if [ -t 1 ]; then`n/bin/ls -C $@ |cat`n    else`n/bin/ls $@ |cat`n    fi`n}
+
+
 ::todec::let i=1 | while i<=18000 | execute 'normal! i' . printf("fr/fr_%05d.mp3", printf("%d", i)) | let i+=1 | endwhile
 
+::nullwave::What is the purpose of a null-wavefront in Null Convention Logic?
 
 ;; vim convert to unicode ;;
 
@@ -63,10 +69,11 @@ return
 
 ::resu::Un resumen de los temas y tópicos de esta conversación.
 
+/*
 ;; dinkus ;;
 
 :*:zzz::`n`n* * *`n`n
-
+*/
 ::whats::chatgpt what is
 ::hh::chatgpt
 
@@ -635,7 +642,7 @@ xor_eq
 ::gitb::git config --global user.email "standardgalactic@protonmail.com"
 
 ::goto::git checkout main
-::re set::git reset --hard c6e0f5035225e8c452d9f2df4e4049a7012ce826
+::re set::git reset --hard 0478f98189ae613b533f4e4829799354549353e9
 ::do ne::git push --force origin main
 
 
@@ -714,7 +721,9 @@ xor_eq
 
 ::howtu::# mu, getu, untu, gu
 
-::mul::mkdir unisonlanguage
+
+::mku::mkdir unisonlanguage
+
 ::getu::curl -L https://github.com/unisonweb/unison/releases/download/release%2FM3/ucm-linux.tar.gz --output unisonlanguage/ucm.tar.gz
 ::untu::tar -xzf unisonlanguage/ucm.tar.gz -C unisonlanguage
 ::gu::./unisonlanguage/ucm
@@ -1051,7 +1060,7 @@ print "\n"
 
 ;; java javash ;;
 
-:o:sp::System`.out`.println(
+:o:syp::System`.out`.println(
 
 :*:jsell::jshell
 
@@ -1343,6 +1352,10 @@ Return
 ;; Pluto ;;
 ::powlevel::@bind power_level html"<input type='range'>"
 
+;; concatenate pdf ;;
+
+::step1::convert *.jpg -auto-orient octoplect.pdf
+::step2::ocrmypdf octoplect.pdf octoplexis.pdf
 
 ;; docker ;;
 
