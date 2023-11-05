@@ -1,0 +1,111 @@
+
+                      ÛßßßßßßßßßÛÜÜ      ÜÛßßßßßßßßßßßßÛ
+ßßßßßßßßßßßßßßßßßßßßß Û ÛÛÛÛÛÛÛÛÜßÛÛÜ   ÛßÜÛÛÛÛÛÛÛÛÛÛÛÛÛ ßßßßßßßßßßßßßßßßßßßßß
+                      ßßßÛßßßßßßÛÜßÛÛÜ  Û ÛÛÛßßßßßßßßßßß       WalkThrough
+ BIO MENACE v1.0         Û      ÜßÜÛÛÛ  ßßßßßßßßßßßÛßÛÛÛ By : Acid Queen/DS
+                      ÛßßßßßßßßßÜÛÛÛÛ   ÛßßßßßßßßßßßÜÛÛÛ      & Soundwave
+ßßßßßßßßßßßßßßßßßßßßß Û ÛÛÛÛÛÛÛÛÛÛÛß    Û ÛÛÛÛÛÛÛÛÛÛÛÛÛß ßßßßßßßßßßßßßßßßßßßßß
+                      ßßßßßßßßßßß       ßßßßßßßßßßßßßß                  by BVD
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ÛÛÛÛÛÛÛ²²²²²²²±±±±±±±°°°°°°°     Introduction      °°°°°°°±±±±±±±²²²²²²²ÛÛÛÛÛÛÛ
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+This Walkthrough exists of 2 parts. The first one are the Saved-Games and
+the second one gives additional help for completing the game.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ÛÛÛÛÛÛÛ²²²²²²²±±±±±±±°°°°°°°    Saved Games.       °°°°°°°±±±±±±±²²²²²²²ÛÛÛÛÛÛÛ
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+SAVE1.ZIP contains the first 5 levels with 1 secret level.
+SAVE2.ZIP contains another 5 levels with 1 secret level.
+SAVE3.ZIP contains the Final level in which you have to defeat DR.Mangle
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ÛÛÛÛÛÛÛ²²²²²²²±±±±±±±°°°°°°°   Colour Codes.       °°°°°°°±±±±±±±²²²²²²²ÛÛÛÛÛÛÛ
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+There are 4 levels which contain special switches with 5 colors on it.
+HEre are the codes. We forgot writing down in which level they appear,
+but the are in the right order.
+
+Level ?  : Red, Pink, Dark Blue, Green and Light Blue.
+
+Level 5  : dark blue, light blue, green, pink and red.
+
+Level ?  : Ligt Blue, Dark Blue, Red, Pink and Green.
+
+Level 13 : Red, Pink, Dark Blue, Green and Light Blue.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ÛÛÛÛÛÛÛ²²²²²²²±±±±±±±°°°°°°°  General Hints.       °°°°°°°±±±±±±±²²²²²²²ÛÛÛÛÛÛÛ
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+a> In the forrest you can look behind some trees (just jump there). And will
+   find some nice guns.
+
+b> The level : ELEVATOR has a bonus at the right side IN the water, but
+   be carefull not to fall in the water.
+
+c> Larg stones can contain a secret passages, so when you see a larg stone
+   and you think that there is room behind it, just try it out.
+
+
+d> First collect some keys and then go after the doors. This saves a lot of
+   time.
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ÛÛÛÛÛÛÛ²²²²²²²±±±±±±±°°°°°°°  Hintbook add-on.     °°°°°°°±±±±±±±²²²²²²²ÛÛÛÛÛÛÛ
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+In the DOX/Hintbook we mentioned some monsters, but we forgot to mention 4
+robot-types :
+
+KANGAROO-ROBOT  : Jumps, and is very fast
+
+PARACHUTE-ROBOT : Is dropped by a helicopter. When it hits the floor it
+                  wil be very dangerous, but when he leaps at you, try to avoid
+                  it.
+
+HELICOPTER : Same helicopter as in DUKE NUKEM. Find a platform, and try shooting
+             it down.
+
+GIANT TECHNODROME : Looks like the turtles-technodrome. It shoots rockets
+                    and grenades. Dont let the grenades hit you! they are very
+                    deadly.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ÛÛÛÛÛÛÛ²²²²²²²±±±±±±±°°°°°°°     level 13.         °°°°°°°±±±±±±±²²²²²²²ÛÛÛÛÛÛÛ
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+This one is the most difficult one in the game, but its easy to solve (when
+you know how to).
+
+First RUn and jump over DR.MANGLE. He will turn into a monster, but when you
+are fast you can get to the elevator. Go up and collect items and solve
+the color-sequence. You will find a spacial key and RUN again, but this
+time to the left. GO throw the special door and you will get to a special
+spot . Now throw some grenades at the monster , because he cant do a thing about
+it...So the poor monster dies...But dont worry, DR.MANGLE was just a puppet of
+DR. CHAIN which you may defeat in part to.
+
+
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ÛÛÛÛÛÛÛ²²²²²²²±±±±±±±°°°°°°°     Final Words       °°°°°°°±±±±±±±²²²²²²²ÛÛÛÛÛÛÛ
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+Spread it, use it and send me your fanmail saying that you like the solve.
+
+To contact me...Write to 25:101/105@Vertigo
+or call +31-1150-95355 and press '6' to leave me some mail.
+
+                                                ByeBye,
+                                                       Acid Queen/DS
+
+
