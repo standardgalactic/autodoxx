@@ -1,0 +1,38 @@
+#!/usr/bin/bash
+
+# Define a function to convert a word to Unicode bold
+convert_to_unicode_bold() {
+  local word="$1"
+    local unicode_bold=""
+    local length=${#word}
+
+  for ((i = 0; i < length; i++)); do
+    local char="${word:i:1}"
+  case "$char" in
+      [a-z])
+        unicode_bold+="$(echo -n -e "\U1D41$((0x61 + (0x1D63 - 0x61) * (0x61 - 97 + ${char}))")")"
+          ;;
+      [A-Z])
+        unicode_bold+="$(echo -n -e "\U1D40$((0x41 + (0x1D63 - 0x41) * (0x41 - 65 + ${char}))")")"
+          ;;
+      *)
+        unicode_bold+="$char"
+        ;;
+      esac
+        done
+
+        echo -n "$unicode_bold"
+}
+
+# Use sed and awk to find and replace words inside double asterisks
+sed -E 's/\*\*([^*]+)\*\*/\1/g' input.txt | \
+      awk -F' ' '{
+        for (i=1; i<=NF; i++) {
+          if ($i ~ /\*\*[^*]+\*\*/) {
+            gsub(/\*\*/, "", $i)
+              $i = convert_to_unicode_bold($i)
+          }
+        }
+        print
+      }' > output.txt
+
